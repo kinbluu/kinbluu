@@ -1,21 +1,34 @@
-# Hi, I'm Mochammad Rahmat Muttaqin 👋
+<h1 align="center">Hi, I'm Mochammad Rahmat Muttaqin 👋</h1>
 
-💻 Aspiring Fullstack Web Developer
-⚙️ Technology Enthusiast
+<p align="center">
+  Programmer in the education sector, on the way to fullstack web development.
+</p>
 
----
+<p align="center">
+  <a href="https://linkedin.com/in/mochammad-rahmat-muttaqin">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://discord.com/users/1290584043896832054">Discord</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.instagram.com/_kinturu/">Instagram</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:akin@programmer.net">Email</a>
+</p>
 
-I'm a programmer currently working in a company in the education sector,  where I contribute to building and maintaining web-based systems that support educational activities.
-And I really interest in **web development and modern software tools**.
-I enjoy building applications that are **clean, efficient, and user-focused** while continuously improving my skills in both frontend and backend development.
+## About
 
-Currently, I’m focusing on becoming a **Fullstack Web Developer** by deepening my understanding of modern web technologies and development workflows.
+I build and maintain the web systems behind day-to-day learning at an education company. I like software that is **clean, efficient and easy to use**, and I'm growing on both sides of the stack to become a **fullstack web developer**.
 
----
+- 🏫 **At work:** school platforms, internal tools and landing pages with Laravel and the MERN stack
+- 🔭 **Building:** a student reading app with Expo, and Discord bots on Bun
+- 🌱 **Learning:** GraphQL, TanStack Start and Cloudflare Workers
+- 🐧 **Setup:** Linux and a hand-tuned Neovim config
 
+## Selected work
 
-## 🌐 Socials:
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/_kinturu/) [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/mochammad-rahmat-muttaqin) [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/1290584043896832054)
+- [**leapbrary-app**](https://github.com/kinkenkan298/leapbrary-app): reading app for students with assigned books, a PDF reader with page audio, bookmarks and offline sync.<br>
+  <sub>Expo · React Native · TanStack Query</sub>
+- [**foto-kita-blur**](https://github.com/kinkenkan298/foto-kita-blur): browser photobox that blurs the preview when the camera sees a ✌️ gesture.<br>
+  <sub>TanStack Start · MediaPipe · Cloudflare Workers</sub>
 
 ## Tech stack
 
