@@ -17,12 +17,32 @@ Currently, I’m focusing on becoming a **Fullstack Web Developer** by deepening
 ## 🌐 Socials:
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/_kinturu/) [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/mochammad-rahmat-muttaqin) [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/1290584043896832054)
 
-# 💻 Tech Stack:
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,html,css,discordjs,bootstrap,bash,express,git,github,laravel,linux,mongodb,mysql,php,react,tailwindcss,vim,vite" />
-  </a>
-</p>
+## Tech stack
+
+<table>
+  <tr>
+    <td><b>Languages</b></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=ts,js,php,bash,lua" alt="TypeScript, JavaScript, PHP, Bash, Lua" /></td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=react,astro,tailwind,vite,html,css,bootstrap" alt="React, Astro, Tailwind CSS, Vite, HTML, CSS, Bootstrap" /></td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,bun,express,laravel,graphql,discordjs" alt="Node.js, Bun, Express, Laravel, GraphQL, discord.js" /></td>
+  </tr>
+  <tr>
+    <td><b>Data</b></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" alt="MongoDB, MySQL, SQLite" /></td>
+  </tr>
+  <tr>
+    <td><b>Tools</b></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=git,github,githubactions,cloudflare,vercel,linux,neovim" alt="Git, GitHub, GitHub Actions, Cloudflare, Vercel, Linux, Neovim" /></td>
+  </tr>
+</table>
+
+<sub>Also: React Native (Expo), TanStack Start · Router · Query, Livewire, Turborepo, Effect, Vitest</sub>
 
 ## GitHub activity
 
