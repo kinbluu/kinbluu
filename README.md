@@ -24,10 +24,27 @@ Currently, I’m focusing on becoming a **Fullstack Web Developer** by deepening
   </a>
 </p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kinkenkan298&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=kinkenkan298&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kinkenkan298&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## GitHub activity
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kinkenkan298/kinkenkan298/output/stats-dark.svg" />
+    <img height="170" src="https://raw.githubusercontent.com/kinkenkan298/kinkenkan298/output/stats.svg" alt="GitHub stats for kinkenkan298" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kinkenkan298/kinkenkan298/output/top-langs-dark.svg" />
+    <img height="170" src="https://raw.githubusercontent.com/kinkenkan298/kinkenkan298/output/top-langs.svg" alt="Most used languages" />
+  </picture>
+</p>
 
-<img src="https://raw.githubusercontent.com/kinkenkan298/kinkenkan298/output/snake.svg" alt="Snake animation" />
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=kinkenkan298&background=00000000&border=30363d&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&border_radius=6" />
+    <img src="https://streak-stats.demolab.com/?user=kinkenkan298&background=00000000&border=d0d7de&stroke=d0d7de&ring=0969da&fire=0969da&currStreakNum=1f2328&sideNums=1f2328&currStreakLabel=0969da&sideLabels=1f2328&dates=59636e&border_radius=6" alt="GitHub contribution streak" />
+  </picture>
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kinkenkan298/kinkenkan298/output/snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/kinkenkan298/kinkenkan298/output/snake.svg" alt="Snake eating the contribution graph" />
+</picture>
