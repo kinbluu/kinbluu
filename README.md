@@ -25,9 +25,9 @@ I build and maintain the web systems behind day-to-day learning at an education 
 
 ## Selected work
 
-- [**leapbrary-app**](https://github.com/kinkenkan298/leapbrary-app): reading app for students with assigned books, a PDF reader with page audio, bookmarks and offline sync.<br>
+- [**leapbrary-app**](https://github.com/kinbluu/leapbrary-app): reading app for students with assigned books, a PDF reader with page audio, bookmarks and offline sync.<br>
   <sub>Expo · React Native · TanStack Query</sub>
-- [**foto-kita-blur**](https://github.com/kinkenkan298/foto-kita-blur): browser photobox that blurs the preview when the camera sees a ✌️ gesture.<br>
+- [**foto-kita-blur**](https://github.com/kinbluu/foto-kita-blur): browser photobox that blurs the preview when the camera sees a ✌️ gesture.<br>
   <sub>TanStack Start · MediaPipe · Cloudflare Workers</sub>
 
 ## Tech stack
@@ -61,23 +61,23 @@ I build and maintain the web systems behind day-to-day learning at an education 
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kinkenkan298/kinkenkan298/output/stats-dark.svg" />
-    <img height="170" src="https://raw.githubusercontent.com/kinkenkan298/kinkenkan298/output/stats.svg" alt="GitHub stats for kinkenkan298" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kinbluu/kinbluu/output/stats-dark.svg" />
+    <img height="170" src="https://raw.githubusercontent.com/kinbluu/kinbluu/output/stats.svg" alt="GitHub stats for kinbluu" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kinkenkan298/kinkenkan298/output/top-langs-dark.svg" />
-    <img height="170" src="https://raw.githubusercontent.com/kinkenkan298/kinkenkan298/output/top-langs.svg" alt="Most used languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kinbluu/kinbluu/output/top-langs-dark.svg" />
+    <img height="170" src="https://raw.githubusercontent.com/kinbluu/kinbluu/output/top-langs.svg" alt="Most used languages" />
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=kinkenkan298&background=00000000&border=30363d&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&border_radius=6" />
-    <img src="https://streak-stats.demolab.com/?user=kinkenkan298&background=00000000&border=d0d7de&stroke=d0d7de&ring=0969da&fire=0969da&currStreakNum=1f2328&sideNums=1f2328&currStreakLabel=0969da&sideLabels=1f2328&dates=59636e&border_radius=6" alt="GitHub contribution streak" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=kinbluu&background=00000000&border=30363d&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&border_radius=6" />
+    <img src="https://streak-stats.demolab.com/?user=kinbluu&background=00000000&border=d0d7de&stroke=d0d7de&ring=0969da&fire=0969da&currStreakNum=1f2328&sideNums=1f2328&currStreakLabel=0969da&sideLabels=1f2328&dates=59636e&border_radius=6" alt="GitHub contribution streak" />
   </picture>
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kinkenkan298/kinkenkan298/output/snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/kinkenkan298/kinkenkan298/output/snake.svg" alt="Snake eating the contribution graph" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kinbluu/kinbluu/output/snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/kinbluu/kinbluu/output/snake.svg" alt="Snake eating the contribution graph" />
 </picture>
